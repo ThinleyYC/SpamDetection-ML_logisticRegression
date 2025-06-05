@@ -2,7 +2,7 @@
 source: yt (siddarthadan)
 
 Code flow:
-1. Importing Dependencis
+1. Importing Dependencies
 2. Data collection and preprocessing
 3. Label encoding
 4. Train test split
